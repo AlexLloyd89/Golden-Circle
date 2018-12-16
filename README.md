@@ -1,2 +1,8 @@
-# Golden-Circle
-Web Application For Planning A Night Out Around A Band You Want To See
+# API-Group-Project
+API Group Project
+
+Group Members:
+David Joyce,
+Conner Leigh,
+Alex Lloyd,
+Sandhya Pradeshik
